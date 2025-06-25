@@ -12,7 +12,7 @@
 - **AI/ML:** 강우석  
 - **Backend (BE):** 고대권, 김현회, 오수빈  
 
-**Demo Slides:** [최종발표.pptx](./최종발표.pptx)  
+**Demo Slides:** [최종발표.pptx](sha256:c0f80d78db2fddc6f928cc4f5d4b8f9f32f0094c8ec5cab73137d580a3fe6c01)  
 
 ---
 
