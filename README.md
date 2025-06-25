@@ -1,5 +1,6 @@
 # primero-server
 
+<img src="https://github.com/user-attachments/assets/e9807cb3-83d6-4d6c-97c4-a1c9d299b003" height="100" width="130"> <br>
 # INHArit
 
 **Team:** &lt;Primero&gt; 팀  
@@ -57,7 +58,25 @@
 
 |                            Github                            |                           Discord                            |                            Notion                            |                            Jira                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img alt="github logo" src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"> | <img alt="Discord logo" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" height="65" width="65"> | <img alt="Notion logo" src="https://www.notion.so/cdn-cgi/image/format=auto,width=640,quality=100/front-static/shared/ico외**
+| <img alt="github logo" src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"> | <img alt="Discord logo" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" height="65" width="65"> | <img alt="Notion logo" src="https://www.notion.so/cdn-cgi/image/format=auto,width=640,quality=100/front-static/shared/icons/notion-app-icon-3d.png" height="65" width="65"> |<img alt="Jira logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTodTA_uzjXXbVJxfatvmWfGMZoDFJWX_Kl-g&s" height="30" width="50"> |
+
+<br/>
+
+
+
+### 🖥 **Frontend**
+
+| Flutter | Dart | CodeMagic | LottieFiles | RiverPod | Secure Storage Flutter |
+| :----: | :--------: | :----------------: | :--------: | :----: | :---: |
+| <img alt="Flutter" src="https://github.com/user-attachments/assets/62be6cfa-b28c-4217-89c9-8d0531d025cf" width="100" height="65" /> | <img alt="Dart" src="https://github.com/user-attachments/assets/5c5ff4f8-7733-4819-9ac3-b949762d91d1" width="100" height="65" /> | <img  alt="CodeMagic" src="https://github.com/user-attachments/assets/d3c026ba-466a-43a6-a0fc-7ea46f8f65bb" width="65" height="65" /> | <img alt="LottieFiles" src="https://github.com/user-attachments/assets/a23c6a8f-cd74-4b7d-8add-e9cf5f4b17cf" width="100" height="65" /> | <img alt="RiverPod" src="https://github.com/user-attachments/assets/cc6d1c1c-ab72-4011-bb5e-fd7b9c2e6959" width="100" height="65" /> | <img alt="Secure Stograge Flutter" src="https://github.com/user-attachments/assets/1568ad86-0c04-4d0a-a365-3171276cb298" width="150" height="65" /> | 
+
+### 🖥 **Backend**
+
+| Spring | Java | MySQL | Spring Security | JPA | JWT | SMTP | Redis | SwaggerUI | Google Cloud Platform |
+| :----: | :--: | :---: | :-------------: | :-: | :------: | :---: | :----: | :-: | :----: |
+| <img alt="Spring" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_gfWuam4XTPX1JX7unZTzl7jKFWUwkrhXA&s" width="65" height="30" /> | <img alt="Java" src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" /> | <img alt="MySQL" src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" /> | <img alt="Spring Security" src="https://pbs.twimg.com/profile_images/1235983944463585281/AWCKLiJh_400x400.png" width="65" height="65" /> | <img alt="JPA" src="https://velog.velcdn.com/images/iione0116/post/80f895d6-dd5c-4664-b3e5-ba12d51c361e/image.png" width="65" height="65" /> | <img alt="JWT" src="https://github.com/user-attachments/assets/d5195461-a3e8-485b-8a87-ae6cb94efdca" width="100" height="65" /> | <img alt="SMTP" src="https://github.com/user-attachments/assets/0a5626e8-df26-4d38-b543-388076f4b90d" width="100" height="65" /> | <img alt="Redis" src="https://github.com/user-attachments/assets/8f446811-6f3e-448f-8ef9-d05e29fa96b6" width="100" height="65" /> | <img alt="SwaggerUI" src="https://www.elizeire.com/assets/img/swagger.png" width="100" height="65" /> | <img alt="GCP" src="https://github.com/user-attachments/assets/c087c2ba-1d4a-4f67-ab50-24effd9067a7" width="100" height="65" />
+
+### 🖥 **그외**
 
 | Google Maps API | RaspberryPi | YOLOv5 | 
 | :----: | :------------: | :------------: |
