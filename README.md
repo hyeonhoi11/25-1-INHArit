@@ -13,6 +13,7 @@
 - **Backend (BE):** 고대권, 김현회, 오수빈  
 
 **🖥️ 최종발표 자료:** [📥 최종발표.pptx](https://github.com/hyeonhoi11/25-1-INHArit/releases/tag/INHArit)  
+**📹 시연영상:** [📲 시연영상](https://www.youtube.com/watch?v=jRs_1vmYQMQ)
 
 ---
 
