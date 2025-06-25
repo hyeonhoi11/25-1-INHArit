@@ -23,13 +23,12 @@
 
 ---
 
-## 📋 목차  
-1. INHArit란?  
-2. 기획 주제 및 배경  
-3. 팀 소개 및 역할 분담  
-4. 협업 방식  
-5. 시연 과정  
-6. 발전 계획  
+## 👓 Frontend
+
+| 차태훈<br> | 
+| :----------------: | 
+| <img src="![IMG_5332.JPG](attachment:d32e6a03-6a24-413a-800b-57ca3714d685:IMG_5332.jpg)" height="100" width="100"> |
+| **Features**<br/>- SockJS와 Stomp를 사용한 **채팅 기능** <br/>- SSE를 사용한 **알림 기능**<br/>- **리뷰 기능**<br/>- 유저플로우 작성<br/> - **발표** 및 발표 자료 작성 | **Features**<br/>- Frontend **배포** 담당<br/>- Github Action **CI/CD** 적용<br/>- OAuth 및 일반 **로그인/회원가입** 기능<br/>- **로그** 확인 기능<br/>- **카카오톡 공유** 기능<br/>- 유저 플로우 작성 | **Features**<br/>-  **테마** 설정 및 **랜덤 핀** 기능<br/>- Kakao map API를 이용한 **추천 장소 조회** 기능 <br/>- 추천 장소 **좋아요** 기능<br/>- **링크 공유** 기능<br/>- ERD 및 API 작성<br/>- 발표 자료 작성 |
 
 ---
 
@@ -46,7 +45,6 @@
 - **Frontend:** Flutter(Dart)   
 - **Backend:** Spring Boot   
 - **Database:** MySQL  
-- **Deployment:** Docker
 - **Cache:** Redis
 - **Deployment:** Docker 
 
